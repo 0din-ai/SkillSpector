@@ -55,7 +55,7 @@ dev = [
     "mypy>=1.19.0",
     "build>=1.4.0",
     "twine>=6.2.0",
-    "poetry>=2.3.0",
+    "poetry>=2.3.4",
 ]
 
 [project.scripts]
